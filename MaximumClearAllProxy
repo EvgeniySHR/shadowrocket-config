@@ -1,7 +1,0 @@
-[General]
-dns-server = 1.1.1.1
-tcp-fast-open = true
-dns-cache-system = true
-
-[Rule]
-FINAL,PROXY
